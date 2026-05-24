@@ -1,5 +1,7 @@
 # Cybersecurity Risk Analysis and Treatment Report
 
+![Cybersecurity Risk Analysis Project Overview](visuals/project-overview.png)
+
 A public portfolio version of an academic cybersecurity risk analysis project completed for IFB240 Cyber Security at Queensland University of Technology during Semester 2, 2025.
 
 This project analyses cyber and privacy risks affecting a fictional medium-sized construction organisation, Rivera-Herrans Constructions, focusing on a Dell XPS 14 9440 device used by a civil engineer for both work and unrestricted personal use.
