@@ -40,6 +40,18 @@ The repository includes visual summaries to make the project easier to review:
 - [CIA summary of key information assets](visuals/cia-summary.png)
 - [OneDrive privacy risk summary](visuals/onedrive-privacy-risk-summary.png)
 
+## How to Review This Project
+
+For a quick review, start with the project overview infographic and the risk matrix in the `visuals/` folder. These summarise the scenario, key risks, risk levels, recommended controls, and expected outcomes.
+
+The full report PDF will provide the detailed analysis, including the organisational context, CIA assessment, risk evaluation, privacy considerations, treatment recommendations, implementation timeline, and cost/resource summary.
+
+## Project Limitations
+
+This project was completed as an academic case study using a fictional organisation and scenario. The risk ratings are qualitative and based on the information available in the assignment context, public cybersecurity sources, and common threat scenarios.
+
+The report does not represent a live security assessment, penetration test, or production security audit. It does not include hands-on testing of the Dell device, Microsoft 365 tenant, or organisational systems. The recommended controls are intended as practical academic recommendations rather than a final implementation plan for a real organisation.
+
 ## Skills Demonstrated
 
 - Cybersecurity risk assessment
