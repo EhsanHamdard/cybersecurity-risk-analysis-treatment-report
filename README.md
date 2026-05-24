@@ -60,6 +60,8 @@ The repository includes visual summaries to make the project easier to review:
     ├── cia-summary.png
     └── onedrive-privacy-risk-summary.png
 
+```
+
 ## Disclaimer
 
 This repository contains a public portfolio version of an academic team project. The organisation and scenario are fictional and were created for academic purposes. Private student information, student numbers, team member identifying details, and unnecessary appendix material have been removed.
