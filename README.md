@@ -34,11 +34,11 @@ The analysis considers confidentiality, integrity, and availability impacts acro
 
 The repository includes visual summaries to make the project easier to review:
 
-- Project overview infographic
-- Cybersecurity risk matrix
-- Risk treatment roadmap
-- CIA summary of key information assets
-- OneDrive privacy risk summary
+- [Project overview infographic](visuals/project-overview.png)
+- [Cybersecurity risk matrix](visuals/risk-matrix.png)
+- [Risk treatment roadmap](visuals/treatment-roadmap.png)
+- [CIA summary of key information assets](visuals/cia-summary.png)
+- [OneDrive privacy risk summary](visuals/onedrive-privacy-risk-summary.png)
 
 ## Skills Demonstrated
 
